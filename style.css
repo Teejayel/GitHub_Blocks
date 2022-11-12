@@ -8,21 +8,21 @@ h1, p {
 }
 
 img {
-    height: 171px;
-    margin: 1px 3px;
+    height: 200px;
+    margin: 1px 4px;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 47px;
     font-family: 'Orbitron', sans-serif;
     font-weight: 600;
-    margin: 10px;
+    margin: 12px;
 }
 
 .container {
-    width: 656px;
-    padding: 15px;
-    margin: 17px auto;
+    width: 767px;
+    padding: 18px;
+    margin: 20px auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
